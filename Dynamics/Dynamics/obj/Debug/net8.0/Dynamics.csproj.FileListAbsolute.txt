@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\bin\Debug\net8.0\Dynamics.exe
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\bin\Debug\net8.0\Dynamics.deps.json
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\bin\Debug\net8.0\Dynamics.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\bin\Debug\net8.0\Dynamics.dll
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\bin\Debug\net8.0\Dynamics.pdb
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.dll
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\refint\Dynamics.dll
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.pdb
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\Dynamics.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\Dynamics\Dynamics\obj\Debug\net8.0\ref\Dynamics.dll
