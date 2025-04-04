@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
