@@ -1,0 +1,4 @@
+C:\Users\Work Purpose\source\Csharp\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net8.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
