@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.exe
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.deps.json
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.dll
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.pdb
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.dll
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\refint\LambdaExpressions.dll
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.pdb
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\LambdaExpressions\LambdaExpressions\obj\Debug\net8.0\ref\LambdaExpressions.dll
