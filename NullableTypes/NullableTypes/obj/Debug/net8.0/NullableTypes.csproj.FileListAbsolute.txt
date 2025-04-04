@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\NullableTypes\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll
