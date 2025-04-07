@@ -1,0 +1,4 @@
+C:\Users\Work Purpose\source\Csharp\Photo\Photo\obj\Debug\net8.0\TestDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\Photo\Photo\obj\Debug\net8.0\TestDelegate.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\Photo\Photo\obj\Debug\net8.0\TestDelegate.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\Photo\Photo\obj\Debug\net8.0\TestDelegate.csproj.CoreCompileInputs.cache
